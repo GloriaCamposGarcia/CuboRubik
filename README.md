@@ -7,7 +7,7 @@
 - Gabriel Bermúdez Avalos A01281209
 - Teclo Moreno Rodríguez A01252067
 - Benjamín Gracia Francis A01250565
-- Rodolfo Humberto Tamayo 
+- Rodolfo Humberto Tamayo A01282633
 
 ---
 
