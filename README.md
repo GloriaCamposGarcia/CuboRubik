@@ -6,7 +6,8 @@
 - Jorge Andres Avila Hurtado A00822232
 - Gabriel Bermúdez Avalos A01281209
 - 
-
+-
+-
 
 ---
 
