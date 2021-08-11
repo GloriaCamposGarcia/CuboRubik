@@ -6,9 +6,12 @@
 - Jorge Andres Avila Hurtado A00822232
 - 
 - 
-- 
----
-Laboratorio de mecatrónica
+
+
 ---
 
-# Actividades 
+Laboratorio de mecatrónica
+
+---
+
+## Actividades 
